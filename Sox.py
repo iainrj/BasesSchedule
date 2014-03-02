@@ -59,7 +59,7 @@ def night_day(start_time):
 	elif start_time == '03:33 AM':
 		return "Start Time Unknown"
 	else:
-		return "DAY GAME (PM onwards)"
+		return "DAY GAME (4PM onwards)"
 
 def outputByDate():
 	userDate = raw_input("Please enter a date(mm/dd/yy) (Enter for today's date): ")

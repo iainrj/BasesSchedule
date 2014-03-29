@@ -4,4 +4,4 @@ BasesSchedule
 Python script for baseball schedule
 Currently only supports Boston Red Sox schedule
 
-![alt tag](BasesSchedule/Screenshot.png)
+![alt tag](Screenshot.png)
